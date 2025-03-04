@@ -4,3 +4,11 @@ The goal of this project is to develop a machine learning model capable of predi
 #### Step 1 - Generate data and cleaning
 I use synthea toolkit with docker to generate my data: https://synthetichealth.github.io/spt/#/customizer
 additional course : https://www.kaggle.com/learn/data-cleaning
+
+
+Questionning:
+
+- Data type: quantitative continious + qualitative (categrial variable) --> FAMD
+
+- Problems with Data Dates: Which data points are most relevant? Analyses of some patients were performed two years ago; are these analyses still valid? 
+What is the impact of medication on patient data values
