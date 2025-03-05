@@ -3,7 +3,7 @@ The goal of this project is to develop a machine learning model capable of predi
 
 #### Step 1 - Generate data and cleaning
 I use synthea toolkit with docker to generate my data: https://synthetichealth.github.io/spt/#/customizer
-additional course : https://www.kaggle.com/learn/data-cleaning
+/n additional course : https://www.kaggle.com/learn/data-cleaning
 
 
 Questionning:
